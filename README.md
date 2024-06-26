@@ -1,4 +1,4 @@
-﻿# springboot3-jdk17-soap-demo
+
 # springboot3-jdk17-soap-demo
 Spring Boot 3 JDK 17 SOAP Demo
 # 项目简介
@@ -17,3 +17,9 @@ Maven 3.x
 http://localhost:8080/webservice/api?wsdl
 ### SOAP 客户端
 客户端代码演示了如何调用上述 SOAP 服务并处理响应。
+
+---
+
+> **说明**：此 README 文件由 ChatGPT 生成。
+
+---
