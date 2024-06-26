@@ -14,6 +14,6 @@ Maven 3.x
 ### SOAP 服务器
 服务启动后，SOAP 服务接口可以通过以下 WSDL 访问：
 
-http://localhost:8080/ws/your-service.wsdl
+http://localhost:8080/webservice/api?wsdl
 ### SOAP 客户端
 客户端代码演示了如何调用上述 SOAP 服务并处理响应。
